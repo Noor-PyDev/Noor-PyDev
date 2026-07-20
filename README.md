@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Noor 👋
 
-<!--
-**Noor-PyDev/Noor-PyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Python Backend Engineer | API Developer | Cloud-Native Systems Builder
 
-Here are some ideas to get you started:
+I'm a Software Engineer passionate about building scalable backend systems, high-performance APIs, and cloud-native applications using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+- Build scalable backend services with Python
+- Design RESTful APIs using FastAPI, Django, and Flask
+- Develop cloud-native and microservice-based applications
+- Optimize SQL databases and application performance
+- Build automation platforms and developer tools
+- Design secure and maintainable software architectures
+- Explore AI-powered software solutions
