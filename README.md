@@ -1,15 +1,23 @@
-# Hi, I'm Noor 👋
+- 👋 Hi, I’m Noor 👨🏻‍💻 Software Engineer | 🐍 Python Developer | Data Enthusiast | Code Artisan 🖋️
 
-### Python Backend Engineer | API Developer | Cloud-Native Systems Builder
+  Passionate about all things Python, I craft elegant solutions to complex problems using code. 🚀
 
-I'm a Software Engineer passionate about building scalable backend systems, high-performance APIs, and cloud-native applications using Python.
+- 🔎 Skills:
+Python (Flask, Django)
+Data Analysis (Pandas, NumPy)
+Machine Learning (Scikit-Learn, TensorFlow)
+Web Development (HTML, CSS, JavaScript)
+Automation (Scripting, Bots)
+Problem-Solving
 
-## 🚀 What I Do
+- 👀 Interests:
+Exploring the limitless possibilities of Python
+Uncovering insights from data with a dash of AI magic
+Building web applications that make life easier
+Contributing to open-source projects
 
-- Build scalable backend services with Python
-- Design RESTful APIs using FastAPI, Django, and Flask
-- Develop cloud-native and microservice-based applications
-- Optimize SQL databases and application performance
-- Build automation platforms and developer tools
-- Design secure and maintainable software architectures
-- Explore AI-powered software solutions
+- 🎯 Goals:
+Contribute to projects that drive positive change
+Learn and grow as a developer every day
+Collaborate with like-minded coding enthusiasts
+Inspire and mentor the next generation of Pythonistas
