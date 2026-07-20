@@ -1,6 +1,6 @@
 # Hi, I'm Noor 👋
 
-### Senior Python Backend Engineer | API Developer | Cloud-Native Systems Builder
+### Python Backend Engineer | API Developer | Cloud-Native Systems Builder
 
 I'm a Software Engineer passionate about building scalable backend systems, high-performance APIs, and cloud-native applications using Python.
 
